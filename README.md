@@ -42,8 +42,8 @@
 ![Clock ](https://github.com/user-attachments/assets/c50a0a48-a325-4077-bba5-3ee1a05805df)
 
 
-### Name:M.Chandru
-### Register Number: 24900224
+### Name: BALA SARAVAMAM K
+### Register Number: 24900611
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
