@@ -32,11 +32,18 @@
 
 ## Input:
 
+![Screenshot 2024-11-27 114321](https://github.com/user-attachments/assets/5bba7921-17c6-48b6-8b3f-368d59f2c20d)
+
+
 ### Output:
 
+![Clock 1](https://github.com/user-attachments/assets/dbaf485b-13c9-422a-99ab-d9600c503fd0)
 
-### Name:
-### Register Number:
+![Clock ](https://github.com/user-attachments/assets/c50a0a48-a325-4077-bba5-3ee1a05805df)
+
+
+### Name:M.Chandru
+### Register Number: 24900224
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
